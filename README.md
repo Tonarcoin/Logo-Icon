@@ -1,3 +1,3 @@
-The repository contains only the logo and icon - Tonarcoin.
+This repository contains only the logo, icon - Tonarcoin.
 
-P.S. JumaliRay
+P.S. Jumali Ray 
